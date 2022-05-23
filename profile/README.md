@@ -2,6 +2,11 @@
 
 Here you'll find **code snippets, examples, and sample apps** to help you take advantage of the vast array of [Bitrise](https://bitrise.io) features and functionality!
 
+<p align="center" spacing="10">
+    <kbd>
+        <img src="BitriseExamples.jpeg"/>
+    </kbd>
+</p>
 
 ## 💻 Community enablement
 
