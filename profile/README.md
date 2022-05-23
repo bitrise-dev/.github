@@ -4,7 +4,7 @@ Here you'll find **code snippets, examples, and sample apps** to help you take a
 
 <p align="center" spacing="10">
     <kbd>
-        <img src="BitriseExamples.jpeg"/>
+        <img src="./profile/BitriseExamples.jpeg"/>
     </kbd>
 </p>
 
