@@ -4,7 +4,7 @@ Here you'll find **code snippets, examples, and sample apps** to help you take a
 
 <p align="center" spacing="10">
     <kbd>
-        <img src="./profile/github-01-01.png"/>
+        <img src="./github-01-01.png"/>
     </kbd>
 </p>
 
